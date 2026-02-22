@@ -96,7 +96,7 @@ Due to size limitations, the full dataset and image files are not included in th
 
 ## 📸 Screenshots
 
-![Home](screenshots/home.png)
+![Home](screenshots/frontpage.png)
 ![Upload](screenshots/upload.png,screenshots/uploads.png)
 ![Prediction](screenshots/prediction.png)
 ![Recommendations](screenshots/recommendation.png)
